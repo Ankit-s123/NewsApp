@@ -1,0 +1,15 @@
+.background{
+    background-color: blueviolet ;
+}
+.card-title{
+    height: 100px;
+}
+.card-text{
+    height: 200px;
+}
+.card-source{
+    padding: 10px;
+    background-color: bisque;
+    font-size: 12px;
+    text-align: center;
+}
